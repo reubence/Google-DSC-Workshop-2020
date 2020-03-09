@@ -1,0 +1,13 @@
+Y-train
+"177       gas
+75        gas
+174    diesel
+31        gas
+12        gas
+        ...  
+106       gas
+14        gas
+92        gas
+179       gas
+102       gas
+Name: fuel-type, Length: 143, dtype: object"

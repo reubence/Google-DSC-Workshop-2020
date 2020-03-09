@@ -1,0 +1,13 @@
+Y-pred
+"15        gas
+9         gas
+100       gas
+132       gas
+68     diesel
+        ...  
+56        gas
+128       gas
+76        gas
+144       gas
+104       gas
+Name: fuel-type, Length: 62, dtype: object"
