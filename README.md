@@ -10,7 +10,7 @@
   </a>
 
   <p >
-This repo contains the python notebooks and the datasets used during the DSC Workshop where I Successfully taught several Data Science/Analysis techniques as part of a six-hour workshop for which I was invited as a speaker/instructor. The workshop was conducted through Developer Students Club by Google at Atharva College of Engineering, Malad.
+This repo contains python notebooks and datasets used during the DSC Workshop where I Successfully taught several Data Science/Analysis techniques as part of a six-hour workshop for which I was invited as a speaker/instructor. The workshop was conducted through Developer Students Club by Google at Atharva College of Engineering, Malad.
 
 Topics covered included – EDA, Visualisation, Training and Testing, Evaluating performance, Machine Learning Algorithms, Basics of Pandas in python, etc. 
     <br />
