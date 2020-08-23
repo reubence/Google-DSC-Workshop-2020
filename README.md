@@ -1,8 +1,7 @@
 
 <!-- PROJECT LOGO -->
 
-<h3>Speaker/Instructor at DSC by Google Workshop @ Atharva College of Engineering</h3>
-<h4 align = "right"> (24th February 2020) </h4>
+<h1>Speaker/Instructor at DSC by Google Workshop @ Atharva College of Engineering</h1>
 
 <br />
 <p align="center">
