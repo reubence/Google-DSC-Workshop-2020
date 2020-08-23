@@ -6,7 +6,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/reubence/Google-DSC-Workshop-2020">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1563888018200/lJaohMmyY.png" alt="Logo" >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSra21UrZxfFpPfeuJE9YOwA8_zEn8zJdmwGg&usqp=CAU" alt="Logo" >
   </a>
 
   <p >
