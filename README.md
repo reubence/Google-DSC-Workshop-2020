@@ -1,7 +1,7 @@
 
 <!-- PROJECT LOGO -->
 
-<h1>Speaker/Instructor at DSC by Google Workshop @ Atharva College of Engineering</h1>
+<h1>Speaker/Instructor at Workshop conducted under Developer Students Club by Google Workshop @ Atharva College of Engineering</h1>
 
 <br />
 <p align="center">
