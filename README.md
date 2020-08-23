@@ -9,7 +9,7 @@
   <h3 align="center">Google DSC Workshop @ Atharva College of Engineering</h3>
   <h5 align = "center"> (24th February 2020) </h5>
 
-  <p align="center">
+  <p >
 I successfully taught several Data Science/Analysis techniques as part of a six-hour workshop for which I was invited as a speaker/instructor. The workshop was conducted by DSC Google at Atharva College of Engineering, Malad.
 
 Topics covered included – EDA, Visualisation, Training and Testing, Evaluating performance, Machine Learning Algorithms, Basics of Pandas in python, etc. 
